@@ -36,9 +36,8 @@ while True:
 
         if (contador == 5):
             print(contador)
-            #webbrowser.open(
-                #'https://wol.jw.org/pt/wol/library/r5/lp-t/todas-as-publica%C3%A7%C3%B5es')
+            # webbrowser.open(
+            # 'https://wol.jw.org/pt/wol/library/r5/lp-t/todas-as-publica%C3%A7%C3%B5es')
 
     cv2.imshow("Imagem", img)
     cv2.waitKey(1)
-
